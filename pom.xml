@@ -3,5 +3,8 @@
   <groupId>com.aveek</groupId>
   <artifactId>sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <build>
+    <finalName>sample</finalName>
+  </build>
   <name>sample</name>
 </project>
